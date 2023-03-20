@@ -1,3 +1,4 @@
+<?php
 
 define( 'LANG_CONTENTSCROLLSPY_HEADTEXT_PANEL', 'Текст Оглавление' );
 define( 'LANG_CONTENTSCROLLSPY_HEADTEXT_PANEL_HINT', 'Укажите свой по желанию' );
