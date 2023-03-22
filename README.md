@@ -10,7 +10,7 @@ Contentscrollspy поле для InstantCMS
 **_Простое поле для авто-создания Оглавления._**
 
 ![Пример...](contentskrolspy.png "Пример...")
-
+![Пример...](contentskrolspy_op.png "Пример...")
 
 Тест на InstantCMS \*v2.15.0\*  
 
